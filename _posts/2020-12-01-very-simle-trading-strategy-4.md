@@ -116,12 +116,11 @@ tags: проверкаидеи
 ![График эквити московской биржи](/assets/images/2020/12/imoex.me_equity.png)
 График эквити московской биржи
 
-### S&P500
 ### Индекс S&P500
-![График индекса S&P500](/assets/images/2020/12/spy.me.png)
+![График индекса S&P500](/assets/images/2020/12/spy.png)
 График цен индекса S&P500 за 10 лет
 
-![График эквити S&P500](/assets/images/2020/12/spy.me_equity.png)
+![График эквити S&P500](/assets/images/2020/12/spy_equity.png)
 График эквити S&P500
 
 Что видно:
@@ -130,24 +129,24 @@ tags: проверкаидеи
 
 ## Американский рынок
 ### Apple Inc.
-![График Apple Inc.](/assets/images/2020/12/aapl.me.png)
+![График Apple Inc.](/assets/images/2020/12/aapl.png)
 График цен Apple Inc. за 10 лет
 
-![График эквити Apple Inc.](/assets/images/2020/12/aapl.me_equity.png)
+![График эквити Apple Inc.](/assets/images/2020/12/aapl_equity.png)
 График эквити Apple Inc.
 
 ### Exxon Mobil Corporation
-![График Exxon Mobil Corporation](/assets/images/2020/12/xom.me.png)
+![График Exxon Mobil Corporation](/assets/images/2020/12/xom.png)
 График цен Exxon Mobil Corporation за 10 лет
 
-![График эквити Exxon Mobil Corporation](/assets/images/2020/12/xom.me_equity.png)
+![График эквити Exxon Mobil Corporation](/assets/images/2020/12/xom_equity.png)
 График эквити Exxon Mobil Corporation
 
 ### Bank of America Corporation
-![График Bank of America Corporation](/assets/images/2020/12/bac.me.png)
+![График Bank of America Corporation](/assets/images/2020/12/bac.png)
 График цен Bank of America Corporation за 10 лет
 
-![График эквити Bank of America Corporation](/assets/images/2020/12/bac.me_equity.png)
+![График эквити Bank of America Corporation](/assets/images/2020/12/bac_equity.png)
 График эквити Bank of America Corporation
 
 Что заметно:
@@ -156,24 +155,24 @@ tags: проверкаидеи
 
 ## Товары
 ### Фьючерсы на пшеницу
-![График фьючерсов на пшеницу](/assets/images/2020/12/zw=f.me.png)
+![График фьючерсов на пшеницу](/assets/images/2020/12/zw=f.png)
 График цен фьючерсов на пшеницу за 10 лет
 
-![График эквити фьючерсов на пшеницу](/assets/images/2020/12/zw=f.me_equity.png)
+![График эквити фьючерсов на пшеницу](/assets/images/2020/12/zw=f_equity.png)
 График эквити фьючерсов на пшеницу
 
 ### Фьючерсы на сою
-![График фьючерсов на сою](/assets/images/2020/12/zs=f.me.png)
+![График фьючерсов на сою](/assets/images/2020/12/zs=f.png)
 График цен фьючерсов на сою за 10 лет
 
-![График эквити фьючерсов на сою](/assets/images/2020/12/zs=f.me_equity.png)
+![График эквити фьючерсов на сою](/assets/images/2020/12/zs=f_equity.png)
 График эквити фьючерсов на сою
 
 ### Фьючерсы на нефть
-![График фьючерсов на нефть](/assets/images/2020/12/cl=f.me.png)
+![График фьючерсов на нефть](/assets/images/2020/12/cl=f.png)
 График цен фьючерсов на нефть за 10 лет
 
-![График эквити фьючерсов на нефть](/assets/images/2020/12/cl=f.me_equity.png)
+![График эквити фьючерсов на нефть](/assets/images/2020/12/cl=f_equity.png)
 График эквити фьючерсов на нефть
 
 Из интересного:
@@ -181,24 +180,24 @@ tags: проверкаидеи
 
 ## Валюты
 ### USD/RUB
-![График USD/RUB](/assets/images/2020/12/rub=x.me.png)
+![График USD/RUB](/assets/images/2020/12/rub=x.png)
 График USD/RUB за 10 лет
 
-![График эквити USD/RUB](/assets/images/2020/12/rub=x.me_equity.png)
+![График эквити USD/RUB](/assets/images/2020/12/rub=x_equity.png)
 График эквити USD/RUB
 
 ### USD/EUR
-![График USD/EUR](/assets/images/2020/12/eur=x.me.png)
+![График USD/EUR](/assets/images/2020/12/eur=x.png)
 График USD/EUR за 10 лет
 
-![График эквити USD/EUR](/assets/images/2020/12/eur=x.me_equity.png)
+![График эквити USD/EUR](/assets/images/2020/12/eur=x_equity.png)
 График эквити USD/EUR
 
 ### BTC/USD
-![График BTC/USD](/assets/images/2020/12/btc-usd.me.png)
+![График BTC/USD](/assets/images/2020/12/btc-usd.png)
 График BTC/USD за 10 лет
 
-![График эквити BTC/USD](/assets/images/2020/12/btc-usd.me_equity.png)
+![График эквити BTC/USD](/assets/images/2020/12/btc-usd_equity.png)
 График эквити BTC/USD
 
 Наблюдения:
