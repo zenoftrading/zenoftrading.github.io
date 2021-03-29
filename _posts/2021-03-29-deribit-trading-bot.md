@@ -16,4 +16,4 @@ tags: python, deribit, api
 
 Бот можно использовать как пример работы с API Deribit. Код работает как есть без всяких гарантий.
 
-Ссылку на гитхаб можно найти у меня в телеграме [https://t.me/zenoftrading](https://t.me/zenoftrading).
+Ссылку на гитхаб можно найти у меня в телеграме [https://t.me/zenoftrading](https://t.me/zenoftrading/68).
