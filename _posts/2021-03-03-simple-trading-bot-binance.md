@@ -1,6 +1,6 @@
 ---
 title: Простой торговый робот для биржи Binance без индикаторов
-tags: python, binance, api, trading, bot
+tags: python binance api trading bot
 ---
 
 [Ссылка на код на github в телеграме](https://t.me/zenoftrading/67)

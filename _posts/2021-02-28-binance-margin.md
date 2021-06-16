@@ -1,6 +1,6 @@
 ---
 title: Binance API и margin orders
-tags: python, binance, api
+tags: python binance api
 ---
 По мотивам своих исследований написал бота, который торгует криптой на бинансе. Стратегия это [покупка на прорыве волатильности](https://zenoftrading.github.io/range-prev-day.html).
 
