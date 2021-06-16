@@ -1,6 +1,6 @@
 ---
 title: Простой бот для крипто биржи Deribit
-tags: python, deribit, api
+tags: python deribit api
 ---
 Нашёл тестовое задание на разработчика в один фонд. Само [задание можно посмотреть в файле](https://github.com/zenoftrading/zenoftrading.github.io/blob/master/assets/images/2021/03/algalon_developer_test_ru.pdf). Нужно написать робота для крипто биржи Deribit. Из требований:
 1. Написать на python 3
